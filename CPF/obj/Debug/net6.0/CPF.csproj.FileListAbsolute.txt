@@ -1,0 +1,14 @@
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.AssemblyInfo.cs
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\CPF.exe
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\CPF.deps.json
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\CPF.runtimeconfig.json
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\CPF.dll
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\ref\CPF.dll
+H:\Visual Studio 2022\Projects\Bank\CPF\bin\Debug\net6.0\CPF.pdb
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.dll
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\ref\CPF.dll
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.pdb
+H:\Visual Studio 2022\Projects\Bank\CPF\obj\Debug\net6.0\CPF.genruntimeconfig.cache

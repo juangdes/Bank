@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5d10fe6-35be-4a38-a659-d5d527f9d81d": {
+      "ProjectGuid": "e5d10fe6-35be-4a38-a659-d5d527f9d81d",
+      "DisplayName": "Bank",
+      "ColorIndex": 0
+    },
+    "ecc450cc-dbba-42e0-a255-1b69fceb8fa9": {
+      "ProjectGuid": "ecc450cc-dbba-42e0-a255-1b69fceb8fa9",
+      "DisplayName": "BankTests",
+      "ColorIndex": 1
+    },
+    "fdf8ed9b-7b47-4fb2-a6e2-9b205b5872e7": {
+      "ProjectGuid": "fdf8ed9b-7b47-4fb2-a6e2-9b205b5872e7",
+      "DisplayName": "CPF",
+      "ColorIndex": 2
+    },
+    "0021b8c9-4eca-403f-a35f-d83e67048f40": {
+      "ProjectGuid": "0021b8c9-4eca-403f-a35f-d83e67048f40",
+      "DisplayName": "CPFTest",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

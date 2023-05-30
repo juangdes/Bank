@@ -1,0 +1,14 @@
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\Bank.exe
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\Bank.deps.json
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\Bank.dll
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\ref\Bank.dll
+H:\Visual Studio 2022\Projects\Bank\Bank\bin\Debug\net6.0\Bank.pdb
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.dll
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.pdb
+H:\Visual Studio 2022\Projects\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
